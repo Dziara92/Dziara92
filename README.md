@@ -8,8 +8,7 @@
 <p align="left">
 
 
-<img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,js,react,redux,vite,ps,xd" width="60" height="60" />
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,js,react,redux,vite,ps,xd)](https://skillicons.dev)
 
 </p>
 
