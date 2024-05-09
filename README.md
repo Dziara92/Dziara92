@@ -1,6 +1,6 @@
 ### Hello, World! I'm Mateusz 👋
-I like creating websites and applications. 
-I'm currently learning <b>TS</b> and practicing <strong>React</strong>.
+I like creating websites and applications.</br>
+I'm currently learning <strong>TS</strong> and practicing <strong>React</strong>.
 
 <!--
 **Dziara92/Dziara92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
