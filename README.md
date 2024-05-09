@@ -8,7 +8,7 @@
 <p align="left">
 
 
-<img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,js,react,redux,vite,ps,xd" width="36" height="36" alt="Sass"/>
+<img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,js,react,redux,vite,ps,xd" width="60" height="60" />
 
 
 </p>
