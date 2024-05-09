@@ -1,7 +1,7 @@
 ### Hello, World! I'm Mateusz 👋
   I like creating websites and applications.
 
-🧠 I'm currently learning <strong>TS</strong> and practicing <strong>React</strong>.
+  I'm currently learning <strong>TS</strong> and practicing <strong>React</strong>.
 
 ### <h2>Tech:</h2>
 
